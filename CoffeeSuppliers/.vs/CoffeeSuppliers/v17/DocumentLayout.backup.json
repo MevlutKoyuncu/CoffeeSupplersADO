@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mevlut\\source\\repos\\CoffeeSuppliers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD39571-3528-4178-9B9A-1CF78DE34994}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\mevlut\\source\\repos\\coffeesuppliers\\dataaccesslayer\\alicilar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAD39571-3528-4178-9B9A-1CF78DE34994}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\alicilar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD39571-3528-4178-9B9A-1CF78DE34994}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\mevlut\\source\\repos\\coffeesuppliers\\dataaccesslayer\\ureticiulkeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAD39571-3528-4178-9B9A-1CF78DE34994}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\ureticiulkeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD39571-3528-4178-9B9A-1CF78DE34994}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\mevlut\\source\\repos\\coffeesuppliers\\dataaccesslayer\\saticilar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAD39571-3528-4178-9B9A-1CF78DE34994}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\saticilar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD39571-3528-4178-9B9A-1CF78DE34994}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\mevlut\\source\\repos\\coffeesuppliers\\dataaccesslayer\\kahveler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAD39571-3528-4178-9B9A-1CF78DE34994}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\kahveler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD39571-3528-4178-9B9A-1CF78DE34994}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\mevlut\\source\\repos\\coffeesuppliers\\dataaccesslayer\\verimodeli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAD39571-3528-4178-9B9A-1CF78DE34994}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\verimodeli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD39571-3528-4178-9B9A-1CF78DE34994}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\mevlut\\source\\repos\\coffeesuppliers\\dataaccesslayer\\veriyollari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAD39571-3528-4178-9B9A-1CF78DE34994}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\veriyollari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD210864-2DF9-4B7F-9F69-2DFD15EFA090}|CoffeeSuppliers\\CoffeeSuppliers.csproj|c:\\users\\mevlut\\source\\repos\\coffeesuppliers\\coffeesuppliers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD210864-2DF9-4B7F-9F69-2DFD15EFA090}|CoffeeSuppliers\\CoffeeSuppliers.csproj|solutionrelative:coffeesuppliers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Alicilar.cs",
+              "DocumentMoniker": "C:\\Users\\Mevlut\\source\\repos\\CoffeeSuppliers\\DataAccessLayer\\Alicilar.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Alicilar.cs",
+              "ToolTip": "C:\\Users\\Mevlut\\source\\repos\\CoffeeSuppliers\\DataAccessLayer\\Alicilar.cs",
+              "RelativeToolTip": "DataAccessLayer\\Alicilar.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T18:18:10.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UreticiUlkeler.cs",
+              "DocumentMoniker": "C:\\Users\\Mevlut\\source\\repos\\CoffeeSuppliers\\DataAccessLayer\\UreticiUlkeler.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\UreticiUlkeler.cs",
+              "ToolTip": "C:\\Users\\Mevlut\\source\\repos\\CoffeeSuppliers\\DataAccessLayer\\UreticiUlkeler.cs",
+              "RelativeToolTip": "DataAccessLayer\\UreticiUlkeler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T18:11:11.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Saticilar.cs",
+              "DocumentMoniker": "C:\\Users\\Mevlut\\source\\repos\\CoffeeSuppliers\\DataAccessLayer\\Saticilar.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Saticilar.cs",
+              "ToolTip": "C:\\Users\\Mevlut\\source\\repos\\CoffeeSuppliers\\DataAccessLayer\\Saticilar.cs",
+              "RelativeToolTip": "DataAccessLayer\\Saticilar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T18:09:12.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Kahveler.cs",
+              "DocumentMoniker": "C:\\Users\\Mevlut\\source\\repos\\CoffeeSuppliers\\DataAccessLayer\\Kahveler.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Kahveler.cs",
+              "ToolTip": "C:\\Users\\Mevlut\\source\\repos\\CoffeeSuppliers\\DataAccessLayer\\Kahveler.cs",
+              "RelativeToolTip": "DataAccessLayer\\Kahveler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:42:20.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VeriModeli.cs",
+              "DocumentMoniker": "C:\\Users\\Mevlut\\source\\repos\\CoffeeSuppliers\\DataAccessLayer\\VeriModeli.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\VeriModeli.cs",
+              "ToolTip": "C:\\Users\\Mevlut\\source\\repos\\CoffeeSuppliers\\DataAccessLayer\\VeriModeli.cs",
+              "RelativeToolTip": "DataAccessLayer\\VeriModeli.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAA1wC0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:41:34.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VeriYollari.cs",
+              "DocumentMoniker": "C:\\Users\\Mevlut\\source\\repos\\CoffeeSuppliers\\DataAccessLayer\\VeriYollari.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\VeriYollari.cs",
+              "ToolTip": "C:\\Users\\Mevlut\\source\\repos\\CoffeeSuppliers\\DataAccessLayer\\VeriYollari.cs",
+              "RelativeToolTip": "DataAccessLayer\\VeriYollari.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:41:24.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mevlut\\source\\repos\\CoffeeSuppliers\\CoffeeSuppliers\\Program.cs",
+              "RelativeDocumentMoniker": "CoffeeSuppliers\\Program.cs",
+              "ToolTip": "C:\\Users\\Mevlut\\source\\repos\\CoffeeSuppliers\\CoffeeSuppliers\\Program.cs",
+              "RelativeToolTip": "CoffeeSuppliers\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:17:54.05Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

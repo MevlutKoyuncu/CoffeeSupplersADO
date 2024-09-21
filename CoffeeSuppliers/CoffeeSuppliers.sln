@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeSuppliers", "CoffeeSuppliers\CoffeeSuppliers.csproj", "{CD210864-2DF9-4B7F-9F69-2DFD15EFA090}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{DAD39571-3528-4178-9B9A-1CF78DE34994}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD210864-2DF9-4B7F-9F69-2DFD15EFA090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD210864-2DF9-4B7F-9F69-2DFD15EFA090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD210864-2DF9-4B7F-9F69-2DFD15EFA090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD210864-2DF9-4B7F-9F69-2DFD15EFA090}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAD39571-3528-4178-9B9A-1CF78DE34994}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAD39571-3528-4178-9B9A-1CF78DE34994}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAD39571-3528-4178-9B9A-1CF78DE34994}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAD39571-3528-4178-9B9A-1CF78DE34994}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D91CB2E-B98B-4C7C-A637-BE7110622CC4}
+	EndGlobalSection
+EndGlobal
